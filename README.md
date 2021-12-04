@@ -13,7 +13,7 @@ Substitute the values in the distance formula
 use print function and run the program
 
 ### PROGRAM:
-'''
+~~~
 #Program to find the distance between two points.
 #Developed by: LAKSHMI PRIYA P
 #RegisterNumber:21001411
@@ -23,7 +23,7 @@ x=[10,6]
 y=[4,2]
 dist=math.sqrt((10-4)**2+(6-2)**2)
 print("{:.2f}".format(dist))
-'''
+~~~
   
 ### OUTPUT:
 ![output](./distance.PNG)
